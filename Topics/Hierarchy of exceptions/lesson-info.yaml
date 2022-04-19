@@ -1,0 +1,12 @@
+content:
+- Theory
+- BadRequestException
+- Base class
+- The name of the base class
+- The base class
+- Overview the hierarchy
+- Overview the hierarchy (1)
+- Base classes of RuntimeException
+- Subclasses of Exception
+- Subclasses of RuntimeException
+- UncheckedException
